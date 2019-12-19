@@ -1,6 +1,8 @@
 # LSM_RWU
 Root water uptake model files
 
+[![DOI](https://zenodo.org/badge/216648866.svg)](https://zenodo.org/badge/latestdoi/216648866)
+
 ## General Instructions
 * NetCDF files from Chen et al (2008) and Livneh et al (2013) must be downloaded locally.
 * Use Preprocess_ForcingData_Sites.m to extract a time series of daily minimum and maximum air temperatures and daily precipitation from Chen et al (2008) (i.e. CPC) and Livneh et al (2013) precipitation datasets. A time series will be generated for each catchment listed in HCDN_Sites.csv. 
