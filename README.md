@@ -1,5 +1,5 @@
 # LSM_RWU
-Root water uptake model files
+Root water uptake model files (Knighton et al., 2020)
 
 [![DOI](https://zenodo.org/badge/216648866.svg)](https://zenodo.org/badge/latestdoi/216648866)
 
@@ -24,5 +24,7 @@ Archibald, J. A., Buchanan, B. P., Fuka, D. R., Georgakakos, C. B., Lyon, S. W.,
 Chen, M., Shi, W., Xie, P., Silva, V. B., Kousky, V. E., Wayne Higgins, R., & Janowiak, J. E. (2008). Assessing objective techniques for gauge‐based analyses of global daily precipitation. Journal of Geophysical Research: Atmospheres, 113(D4).
 
 Fuka, D. R., Walter, M. T., Archibald, J. A., Steenhuis, T. S., Easton, Z. M., Fuka, M. D., & KeepSource, T. R. U. E. (2014). Package ‘EcoHydRology’.
+
+Knighton, J., Singh, K., Evaristo, J. (2020). Understanding Catchment-Scale Forest Root Water Uptake Strategies across the Continental US through Inverse Ecohydrological Modeling. Geophysical Research Letters. DOI: 10.1029/2019GL085937
 
 Livneh, B., Rosenberg, E. A., Lin, C., Nijssen, B., Mishra, V., Andreadis, K. M., ... & Lettenmaier, D. P. (2013). A long-term hydrologically based dataset of land surface fluxes and states for the conterminous United States: Update and extensions. Journal of Climate, 26(23), 9384-9392.
