@@ -1,7 +1,5 @@
-# LSM_RWU
+# LSM_RWU_Age_Tracking
 Root water uptake model files (Knighton et al., 2020)
-
-[![DOI](https://zenodo.org/badge/216648866.svg)](https://zenodo.org/badge/latestdoi/216648866)
 
 ## General Instructions
 * NetCDF files from Chen et al (2008) and Livneh et al (2013) must be downloaded locally.
