@@ -1,7 +1,5 @@
-# LSM_RWU
+# LSM_RWU_Age_Tracking
 Root water uptake model files (Knighton et al., 2020)
-
-[![DOI](https://zenodo.org/badge/216648866.svg)](https://zenodo.org/badge/latestdoi/216648866)
 
 ## General Instructions
 * NetCDF files from Chen et al (2008) and Livneh et al (2013) must be downloaded locally.
@@ -17,6 +15,7 @@ Root water uptake model files (Knighton et al., 2020)
 * includes exponential term for gravity driven baseflow: A1*S^B1
 * includes five vertically stacked soil layers
 * includes Root Water Uptake (RWU) depth-demand function 
+* includes water age tracking in five soil layers, groundwater, and ET
 
 ## References
 Archibald, J. A., Buchanan, B. P., Fuka, D. R., Georgakakos, C. B., Lyon, S. W., & Walter, M. T. (2014). A simple, regionally parameterized model for predicting nonpoint source areas in the northeastern US. Journal of Hydrology: Regional Studies, 1, 74-91.
